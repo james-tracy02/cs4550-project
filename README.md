@@ -20,6 +20,6 @@ This service will keep track of pro-player / high-elo accounts in order to feed 
 
 There will be a login for players who wish to keep track of their own statistics. Players will have a profile which gets updated as they play more games. The profile will have multiple tabs to display different game-statistics. Players will only be able to see in-depth stats for their own profile, but will be able to look at profile summaries for other players.
 
-###API
+### API
 This service will primarily interact with the [riot API](https://developer.riotgames.com/apis).
 
